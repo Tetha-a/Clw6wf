@@ -30,5 +30,24 @@ namespace Clw6wf
                 form3.ShowDialog();
             }
         }
+
+        private void listBoxGeometry_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (listBoxGeometry.SelectedIndex == 0)
+            {
+                Form4 form4 = new Form4();
+                form4.ShowDialog();
+            }
+            else if (listBoxGeometry.SelectedIndex == 1)
+            {
+                Form5 form5 = new Form5();
+                form5.ShowDialog();
+            }
+            else
+            {
+                Form6 form6 = new Form6();
+                form6.ShowDialog();
+            }
+        }
     }
 }

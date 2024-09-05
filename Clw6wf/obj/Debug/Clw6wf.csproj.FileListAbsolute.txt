@@ -9,3 +9,7 @@ C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.csproj.CoreCompileInp
 C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.exe
 C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.pdb
 C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form2.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form3.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form4.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form5.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form6.resources

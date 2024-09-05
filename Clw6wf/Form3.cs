@@ -21,5 +21,25 @@ namespace Clw6wf
         {
             this.Close();
         }
+
+        private void button1Result_Click(object sender, EventArgs e)
+        {
+            double a = double.Parse(textBox1A.Text);
+            double b = double.Parse(textBox1B.Text);
+            double result = (a*a)-(b*b);
+            textBoxResult.Text = result.ToString();
+            textBox1A.Clear();
+            textBox1B.Clear();
+        }
+
+        private void button2Result_Click(object sender, EventArgs e)
+        {
+            double a = double.Parse(textBox2A.Text);
+            double b = double.Parse(textBox2B.Text);
+            double result = (a * a) + (b * b) + 2 * a * b;
+            textBox2Result.Text = result.ToString();
+            textBox2A.Clear();
+            textBox2B.Clear();
+        }
     }
 }

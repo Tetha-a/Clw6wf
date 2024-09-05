@@ -78,6 +78,7 @@
             this.listBoxGeometry.Name = "listBoxGeometry";
             this.listBoxGeometry.Size = new System.Drawing.Size(295, 69);
             this.listBoxGeometry.TabIndex = 4;
+            this.listBoxGeometry.SelectedIndexChanged += new System.EventHandler(this.listBoxGeometry_SelectedIndexChanged);
             // 
             // Form1
             // 
