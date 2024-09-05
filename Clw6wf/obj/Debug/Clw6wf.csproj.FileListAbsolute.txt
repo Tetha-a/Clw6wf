@@ -1,0 +1,11 @@
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\bin\Debug\Clw6wf.exe.config
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\bin\Debug\Clw6wf.exe
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\bin\Debug\Clw6wf.pdb
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.csproj.AssemblyReference.cache
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form1.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Properties.Resources.resources
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.csproj.GenerateResource.cache
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.csproj.CoreCompileInputs.cache
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.exe
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.pdb
+C:\Users\tokit\source\repos\Clw6wf\Clw6wf\obj\Debug\Clw6wf.Form2.resources

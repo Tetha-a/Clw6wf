@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|c:\\users\\tokit\\source\\repos\\clw6wf\\clw6wf\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D4A7C7-7095-4CDE-B042-94159936416E}|Clw6wf\\Clw6wf.csproj|solutionrelative:clw6wf\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +46,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form3.cs",
+              "RelativeDocumentMoniker": "Clw6wf\\Form3.cs",
+              "ToolTip": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form3.cs",
+              "RelativeToolTip": "Clw6wf\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:39:55.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form3.cs",
+              "RelativeDocumentMoniker": "Clw6wf\\Form3.cs",
+              "ToolTip": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Clw6wf\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:38:31.22Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form2.cs",
+              "RelativeDocumentMoniker": "Clw6wf\\Form2.cs",
+              "ToolTip": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form2.cs",
+              "RelativeToolTip": "Clw6wf\\Form2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:03:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form2.cs",
+              "RelativeDocumentMoniker": "Clw6wf\\Form2.cs",
+              "ToolTip": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Clw6wf\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:52:13.162Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form1.cs",
+              "RelativeDocumentMoniker": "Clw6wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form1.cs",
+              "RelativeToolTip": "Clw6wf\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:51:25.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\tokit\\source\\repos\\Clw6wf\\Clw6wf\\Form1.cs",
               "RelativeDocumentMoniker": "Clw6wf\\Form1.cs",
