@@ -52,5 +52,10 @@ namespace Clw6wf
             }
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
